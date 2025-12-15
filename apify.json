@@ -1,0 +1,9 @@
+{
+    "actorSpecification": 1,
+    "name": "telangana-colleges-scraper",
+    "version": "0.0.1",
+    "buildTag": "latest",
+    "environmentVariables": {
+        "APIFY_TIMEOUT": "300"
+    }
+}

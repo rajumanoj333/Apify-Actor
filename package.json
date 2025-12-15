@@ -1,0 +1,14 @@
+{
+  "name": "telangana-colleges-scraper",
+  "version": "0.0.1",
+  "description": "Apify Actor that scrapes information about colleges in Telangana state from Google Places API",
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "scripts": {
+    "start": "python -m src.main",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Apify",
+  "license": "ISC"
+}
