@@ -1,0 +1,17 @@
+{
+  "title": "Telangana Colleges Scraper",
+  "type": "object",
+  "schemaVersion": 1,
+  "properties": {
+    "googleApiKey": {
+      "type": "string",
+      "title": "Google Places API Key"
+    },
+    "maxImages": {
+      "type": "number",
+      "title": "Max Images Per College",
+      "default": 5
+    }
+  },
+  "required": ["googleApiKey"]
+}
